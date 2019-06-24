@@ -9,5 +9,6 @@ public class helloword {
     public static void main(String[] args) {
         System.out.println("1111");
         ///haahahahahahahhaha
+        System.out.println("22222");
     }
 }
